@@ -1,3 +1,3 @@
-name = "Divergences Imploded"
-path = "mod/Divergences Imploded"
-user_dir = "Divergences Imploded"
+name = "Divergence Imploded"
+path = "mod/Divergence Imploded"
+user_dir = "Divergence Imploded"

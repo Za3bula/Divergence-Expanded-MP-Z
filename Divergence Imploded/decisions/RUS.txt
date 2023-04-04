@@ -258,9 +258,11 @@ political_decisions = {
 #Baltic Path
 	integrate_ruthenian_culture = {
 		potential = {
-			tag = RUS
-			tag = PLC
-			NOT = { has_country_flag = ruthenian_culture }
+             OR = {
+                   tag = RUS
+                   tag = PLC
+            }
+		NOT = { has_country_flag = ruthenian_culture }
 		}
 		#Ruthenes have higher tech requirements and lower capitol movement requirements.
 		allow = {

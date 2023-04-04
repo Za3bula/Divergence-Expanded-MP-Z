@@ -259,7 +259,7 @@ political_decisions = {
 	integrate_ruthenian_culture = {
 		potential = {
 			tag = RUS
-			has_country_flag = baltic_sea_focus
+			tag = PLC
 			NOT = { has_country_flag = ruthenian_culture }
 		}
 		#Ruthenes have higher tech requirements and lower capitol movement requirements.
